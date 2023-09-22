@@ -1,5 +1,5 @@
 {
-    "Name": "game_project",
+    "Name": "iEEG on children during gameplay",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "License": "CC0",

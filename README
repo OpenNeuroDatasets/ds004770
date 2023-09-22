@@ -4,7 +4,7 @@ Description:
 
 We present an electrophysiological dataset recorded from ten subjects during a visuospatial working memory task. Subjects were epilepsy patients undergoing intracranial monitoring for localization of epileptic seizures. Subjects completed 60 trials (five sessions) of Memory Matrix - a visuospatial working memory game on the Lumosity platform (https://www.lumosity.com/; Lumos Labs, Inc, San Francisco, CA) - during interictal iEEG recording.
 
-Repository structure;
+Repository structure:
 
 Main directory (iEEG from children during gameplay)
 Contains iEEG files of each participant in the study. Folders are explained below.
